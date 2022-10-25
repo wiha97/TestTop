@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "DesktopMode.dll": "sha256-gUMcK9z\/i7yKAY1etsWj8mDhv6sP0aKPPqBO25ufzPg=",
+      "DesktopMode.dll": "sha256-x+1MrNJ4uVF+qkayc4eX8gLVgca846agerO6ECFvh6U=",
       "Microsoft.AspNetCore.Components.dll": "sha256-w9mI2DSM52wCALX7BJN1skal99Z44XxeqsmCzJMpLTo=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-cwHggshcygHh2cRbH7U4zq1Vk2GSF4ryrlO1ZUq1AKg=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-hItIMIcIumfGi1q3IylwSEfpyLuK1QShnYCDeXYXF+M=",
